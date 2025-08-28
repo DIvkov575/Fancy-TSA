@@ -1,10 +1,10 @@
 
 
 TODO:
- - CAGR
- - Walk-forward analysis
-    - 1yr windows -> check for stabillity
-    - get Sharpe, Drawdown, win rate, drawdown
+ 1) Get more data
+ 2) Walk-forward analysis
+    - 1yr windows -> check for stability
+    - get Sharpe, draw-down, win rate
     - analyze these stats over time
 
 
